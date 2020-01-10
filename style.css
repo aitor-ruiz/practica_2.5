@@ -17,10 +17,18 @@ h2{
     color: #333333;
 }
 
-span.titulo {
+strong {
     color: #006699;
 }
-span.destacado{
+em {
     color:#0088CC;
     font-weight: bold;
+}
+
+p{
+    background-color: hsl(200, 15%, 75%);
+}
+
+address{
+    background-color: whitesmoke;
 }
